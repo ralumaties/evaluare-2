@@ -1,0 +1,50 @@
+h1
+{ border: 3px solid black;
+	text-align: right;
+	color: #cccccc;
+    background-color: #999999;
+}
+h2
+{
+	text-align: right;
+	color: #b3b3b3;
+	text-decoration: underline;
+	font-family: "Times New Roman", serif;
+	font-style: italic;
+}
+table,th,td
+{   position: right;
+	border: 1px solid black;
+	margin-left:800px;
+}
+p
+{
+	text-align: right;
+    text-decoration: underline;
+	
+}
+img
+{
+	border: 2px solid;
+    border: 75%;
+	padding: 5px;
+	width : 50%;
+	height :auto;
+	position: ;
+	 margin-left:600px;
+	 background-color:#999999;
+}
+h3
+{
+	text-align: center;
+	color: #b3b3b3;
+	text-decoration: underline;
+	font-family: "Times New Roman", serif;
+	font-style: italic;
+	
+}
+ul
+{
+	 margin-left:500px;
+	
+}
